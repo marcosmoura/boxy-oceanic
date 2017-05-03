@@ -1,30 +1,30 @@
 {
-	"name": "boxy-oceanic",
-	"description": "Boxy Oceanic port for vscode",
-	"version": "1.0.0",
-	"publisher": "marcosmoura",
-	"bugs": {
-		"url": "https://github.com/marcosmoura/boxy-oceanic/issues"
-	},
-	"homepage": "https://github.com/marcosmoura/boxy-oceanic",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/marcosmoura/boxy-oceanic"
-	},
-	"engines": {
-		"vscode": "^0.10.1"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Boxy Oceanic",
-				"uiTheme": "vs-dark",
-				"path": "./themes/boxy-oceanic.json"
-			}
-		]
-	},
-	"icon": "icon.icns"
+    "name": "boxy-oceanic",
+    "description": "Boxy Oceanic port for vscode",
+    "version": "2.0.0",
+    "publisher": "marcosmoura",
+    "bugs": {
+        "url": "https://github.com/marcosmoura/boxy-oceanic/issues"
+    },
+    "homepage": "https://github.com/marcosmoura/boxy-oceanic",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcosmoura/boxy-oceanic"
+    },
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Boxy Oceanic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/boxy-oceanic.json"
+            }
+        ]
+    },
+    "icon": "icon.icns"
 }
