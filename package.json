@@ -22,7 +22,7 @@
 			{
 				"label": "Boxy Oceanic",
 				"uiTheme": "vs-dark",
-				"path": "./themes/boxy-oceanic.tmTheme"
+				"path": "./themes/boxy-oceanic.json"
 			}
 		]
 	},
